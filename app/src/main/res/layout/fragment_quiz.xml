@@ -54,7 +54,7 @@
                 android:layout_gravity="center"
                 android:text="@{viewmodel.currentPrice.toString()}"
                 android:textColor="@color/SI_DeepPurple"
-                android:textSize="48sp"
+                android:textSize="47sp"
                 android:textStyle="bold" />
         </com.google.android.material.card.MaterialCardView>
 
